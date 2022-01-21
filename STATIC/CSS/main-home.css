@@ -1,0 +1,40 @@
+body{
+    background-image: url(/STATIC/images/nza_background.jpg);
+    display: flex;
+}
+.container {
+    height: auto;
+    background-color: white;
+}
+li{
+    padding: 0px 15px 0px 10px;
+}
+.forward-think{
+    padding: 5px;
+}
+.news-feed{
+    padding: 6px;
+}
+.news-scroll{
+    color: white;
+    height: 360px;
+    padding: 15px 0px 0px 0px;
+    background: url(/STATIC/images/nav_side.jpg);
+    background-size: cover;
+}
+h5 {
+    padding: 0px 0px 0px 8px;
+}
+p {
+    padding: 0px 0px 0px 8px;
+}
+hr {
+    background-color: white;
+    padding: 0px 0px 0px 8px;
+}
+h6 {
+    padding: 0px 0px 0px 8px;
+}
+footer {
+    background-color: white;
+}
