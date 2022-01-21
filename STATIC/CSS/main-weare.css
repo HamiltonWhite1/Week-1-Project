@@ -1,0 +1,54 @@
+body{
+    background-image: url(/STATIC/images/nza_background.jpg);
+    display: flex;
+}
+.container{
+    background-color: white;
+    width: 960px;
+    margin: auto;
+}
+#navbarNav {
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+
+}
+.nav-link-2 {
+    padding-right: 32px;
+    padding-left: 32px;
+    border-right: 1px solid darkgrey;
+}
+
+.nav-link-start {
+    padding-right: 32px;
+    border-right: 1px solid darkgrey;
+}
+
+.nav-link-end {
+    padding-left: 50px;
+}
+
+.nav-link {
+    color: black;
+}
+.who-we-are {
+    padding-top: 8px;
+    padding-bottom: 8px;
+    background: url(/STATIC/images/nav_side.jpg);
+    background-repeat: no-repeat;
+}
+h5 {
+    padding-left: 5px;
+
+}
+h6 {
+    padding-left: 12px;
+}
+.law-chair {
+    padding-left: 5px;
+}
+hr {
+    padding-top: 0px;
+}
+footer {
+    padding-top: 0px;
+}

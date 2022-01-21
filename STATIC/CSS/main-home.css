@@ -38,3 +38,27 @@ h6 {
 footer {
     background-color: white;
 }
+#navbarNav {
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+
+}
+
+.nav-link-2 {
+    padding-right: 32px;
+    padding-left: 32px;
+    border-right: 1px solid darkgrey;
+}
+
+.nav-link-start {
+    padding-right: 32px;
+    border-right: 1px solid darkgrey;
+}
+
+.nav-link-end {
+    padding-left: 50px;
+}
+
+.nav-link {
+    color: black;
+}
