@@ -1,0 +1,88 @@
+body {
+    background-image: url(../images/nza_background.jpg);
+}
+
+.container {
+    background-color: white;
+    width: 960px;
+    margin: auto;
+}
+
+#navbarNav {
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+    margin-bottom: 25px;
+
+}
+
+
+#navbarNav-1 {
+    margin-bottom: 25px;
+    padding-left: 100px;
+
+}
+
+.nav-link-2 {
+    padding-right: 32px;
+    padding-left: 32px;
+    border-right: 1px solid darkgrey;
+}
+
+.nav-link-start {
+    padding-right: 32px;
+    border-right: 1px solid darkgrey;
+}
+
+.nav-link-end {
+    padding-left: 50px;
+}
+
+.nav-link {
+    color: black;
+}
+
+#text-box {
+    border: 1px solid darkred;
+    background-color: darkred;
+    color: white;
+    margin-left: 15px;
+    max-height: 300px;
+}
+
+#text-box-title {
+    border-bottom: 1px solid white;
+    text-align: center;
+}
+
+#text-box-group {
+    border-top: 1px solid darkgrey;
+    margin-left: 18px;
+    padding-right: 210px;
+}
+
+.title-2 {
+    padding-left: 400px;
+}
+
+#text-box-2 {
+    padding-left: 150px;
+}
+
+#text-box-3 {
+    padding-left: 130px;
+}
+
+#text-box-group-2 {
+    padding-left: 400px;
+}
+
+#text-box-4 {
+    padding-left: 550px;
+    position: absolute;
+
+}
+
+#footer-line {
+    border-bottom: 2px solid black;
+    color: transparent;
+}
